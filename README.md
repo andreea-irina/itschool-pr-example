@@ -1,3 +1,1 @@
 # itschool-pr-example
-
-Alexandru
